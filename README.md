@@ -1,6 +1,6 @@
 # elementor-pro-forms-sendy-action
 Plugin to connect Elementor pro forms to Sendy through basic forms action
-
+https://developers.elementor.com/docs/form-actions/advanced-example/ 
 
 create an addon which will add a new subscriber to a Sendy (opens new window)server using its API (opens new window).
 
